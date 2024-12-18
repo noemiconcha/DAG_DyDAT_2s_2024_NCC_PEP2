@@ -122,7 +122,7 @@ Y se encuentran al final del codigo en el menu, el cual permite llamar todas la 
 7. Finalmente se aplica un intersect con las Zonas del PRC que, donde solo se puede instalar comercio y queda la columna modelohuff, el cual contiene las probabilidades, esta de igual manera esta en el esquema salida con el nombre de predios_con_comercio
 
 ## Importante
-[Debido al peso que presenta el archivo, la carpeta con todos los datos quedó en el siguiente Link] (https://drive.google.com/drive/folders/1nB9rbREdR0mGPzWgQU63G_vsf6LZW0I5?usp=drive_link=
+[Debido al peso que presenta el archivo, la carpeta con todos los datos quedó en el siguiente Link] https://drive.google.com/drive/folders/1nB9rbREdR0mGPzWgQU63G_vsf6LZW0I5?usp=sharing
 
 
 
