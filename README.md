@@ -20,8 +20,13 @@ El calculó de este incluye geoprocesos , además de la normativa aplicada a la 
 
 [Para la utilización del Codigo es necesario constar con las siguientes librerias](Requerimientos.txt) 
 
-Además de Agregar la siguiente linea de codigo en PgAdmin, antes de ejecutar el Script Python "create extension postgis"
+Además de Agregar la siguiente linea de codigo en PgAdmin "create extension postgis", antes de ejecutar el Script Python 
 
+
+
+## Credenciales 🔑
+
+Antes de Ejecutar el Script es necesario modificar las credenciales asociadas al codigo 
 
 
 
