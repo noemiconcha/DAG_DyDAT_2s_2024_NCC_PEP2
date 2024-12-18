@@ -18,7 +18,7 @@ El calculó de este incluye geoprocesos , además de la normativa aplicada a la 
 
 ## Requisitos 🛠️
 
-[Para la utilización del Codigo es necesario constar con las siguientes librerias](DAG_DyDAT_2s_2024_NCC_PEP2/Requerimientos.txt) 
+[Para la utilización del Codigo es necesario constar con las siguientes librerias](Requerimientos.txt) 
 
 
 
